@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm BenQuam6 but you can call me Ben  
 <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=BenQuam6.BenQuam6"/> <span><img src="https://img.shields.io/github/followers/BenqQuam6?label=Followers&logo=Github"/></span>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BenQuam6.BenQuam6"/> <span><img src="https://img.shields.io/github/followers/BenQuam6?label=Followers&logo=Github"/></span>
 </div>
 
 ## 🎓 I'm working towards becomeing a Software Engineering
